@@ -26,7 +26,7 @@
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
-        <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
+        <entry key="Refactorings.RefactoringBasics" value="PASSED" />
         <entry key="Refactorings.Rename" value="NOT_PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
@@ -90,6 +90,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="EditorBasics.Selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1564749054109" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Refactorings.ExtractMethod">
           <value>
             <StatisticData>
@@ -109,8 +117,8 @@
         <entry key="Refactorings.RefactoringBasics">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1564669989608" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="170482" />
             </StatisticData>
           </value>
         </entry>
