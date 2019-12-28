@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pattern Layout" />
+      <item value="layout" />
       <item value="Failed to start component [Connector[HTTP/1.1-80]]" />
       <item value="Address already in use: bind" />
       <item value="Unsatisfied dependency expressed through field 'mailSender'; nested exception is org.sp" />
@@ -10,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
