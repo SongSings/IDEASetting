@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception In Initializer Error" />
+      <item value="Injection of resource dependencies failed" />
+      <item value="Injection" />
       <item value="t Stock" />
       <item value="Controller Advice" />
       <item value="Pattern Layout" />
@@ -14,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
