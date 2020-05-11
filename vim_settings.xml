@@ -1,32 +1,16 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1564664672270">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/JAVA/SpringBootDataJPA/src/main/resources/application.properties" timestamp="1564664429101">
-        <mark key="[" line="76" column="59" />
-      </file>
-      <file name="E:/JAVA/SpringBootDataJPA/src/main/java/com/datajpa/jpademo/JapdemoApplication.java" timestamp="1564664061262">
-        <mark key="[" line="21" column="33" />
-      </file>
-      <file name="/fragment.java" timestamp="1564664672257">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps />
-    <registers />
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history />
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
