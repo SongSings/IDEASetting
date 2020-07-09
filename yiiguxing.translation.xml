@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Max Idle Time" />
       <item value="Returns a fixed-size list backed by the specified array. (Changes to * the returned list &quot;write through&quot; to the array.) This method acts * as bridge between array-based and collection-based APIs, in * combination with {@link Collection#toArray}. The returned list is * serializable and implements {@link RandomAccess}." />
       <item value="Safe Varargs" />
       <item value="Exception In Initializer Error" />
