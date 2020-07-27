@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aspect" />
       <item value="inline" />
       <item value="druid" />
       <item value="set Max Idle Time" />
