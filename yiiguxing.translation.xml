@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="keven" />
+      <item value="kevev" />
       <item value="jekyll-theme-slate" />
       <item value="mchange" />
       <item value="Invalid username or password." />
@@ -27,8 +29,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="KURDISH" value="1" />
         <entry key="SWAHILI" value="1" />
       </map>
     </option>
