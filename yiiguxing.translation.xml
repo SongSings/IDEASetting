@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid username or password." />
       <item value="if Present" />
       <item value="Aspect" />
       <item value="inline" />
@@ -25,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
